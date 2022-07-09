@@ -144,3 +144,6 @@ body {
 .text-shadow {
   text-shadow: 2px 2px 5px rgba(39, 39, 39, 0.52);
 }
+.bg-hover-card:hover {
+  background-color: var(--bg-blue-200);
+}
