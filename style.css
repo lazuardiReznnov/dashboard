@@ -138,6 +138,7 @@ body {
 }
 .text-hover:hover {
   color: var(--text-blue-50);
+  font-weight: 700;
 }
 
 .text-shadow {
